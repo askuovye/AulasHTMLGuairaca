@@ -1,0 +1,31 @@
+body {
+    font-family: "Comic Sans MS", san-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+.header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.nav ul li{
+    margin: 15px;
+}
+.features{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
